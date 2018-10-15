@@ -1,0 +1,14 @@
+.borderControl {
+    width: 800px;
+    height: 400px;
+    border: 2px solid #ffc107;
+    margin: 0 auto;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
